@@ -21,7 +21,7 @@ public class Ejec {
         System.out.println("La matriz b es:");
         m.imprimir();
         System.out.println("La matriz b elevada a la 14 es:");
-        ((Matriz)(pm.potencia(b, 14))).imprimir();
+        ((Matriz)(pm.potencia(m, 6))).imprimir();
         System.out.println("");
     }
     
