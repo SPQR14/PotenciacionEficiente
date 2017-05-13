@@ -3,7 +3,6 @@ el método multiplica, dice cómo multiplicar dos objetos
 el método identidad dice lo que debe hacer el programa cuando n = 0
 */
 
-
 package exp;
 
 /**
